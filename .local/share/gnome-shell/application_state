@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="yelp.desktop" open-window-count="0" score="0" last-seen="1583372082"/>
+    <application id="firefox.desktop" open-window-count="3" score="7752" last-seen="1583432660"/>
+    <application id="gedit.desktop" open-window-count="0" score="0" last-seen="0"/>
+    <application id="org.gnome.Nautilus.desktop" open-window-count="0" score="33" last-seen="1583288625"/>
+    <application id="update-manager.desktop" open-window-count="0" score="0" last-seen="1583266730"/>
+    <application id="org.gnome.gedit.desktop" open-window-count="0" score="3" last-seen="1583371821"/>
+    <application id="sublime_text.desktop" open-window-count="0" score="115" last-seen="1583432205"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="15593" last-seen="1583432633"/>
+    <application id="evince.desktop" open-window-count="0" score="6" last-seen="1583362080"/>
+    <application id="gnome-initial-setup.desktop" open-window-count="0" score="22" last-seen="1583266732"/>
+    <application id="thunderbird.desktop" open-window-count="0" score="42" last-seen="1583350861"/>
+    <application id="org.gnome.Software.desktop" open-window-count="1" score="71" last-seen="1583282668"/>
+  </context>
+</application-state>

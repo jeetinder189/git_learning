@@ -1,0 +1,7 @@
+[user]
+	email = jeetinder60@ymail.com
+	name = inderjit
+[color]
+	ui = auto
+[core]
+	editor = sublime -r -w
